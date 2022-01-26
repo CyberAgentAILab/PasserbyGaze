@@ -1,2 +1,2 @@
 # PasserbyGaze
-LP for PasserbyGaze
+Project page for PasserbyGaze
